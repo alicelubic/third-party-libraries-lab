@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
     Dog dog = new Dog("Mimi", "Labradoodle", "Brown/Apricot/Gray",6);
         binding.setDog(dog);
 
+
+
     }
 
 }

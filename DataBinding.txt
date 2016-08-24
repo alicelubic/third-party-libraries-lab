@@ -1,0 +1,5 @@
+Data Binding
+
+The purpose of this library is to cut down repetitive and unnecessary "glue code" for binding views in the Java, and so by adding the info straight to the xml tag, it makes everything more readable, including what each view is supposed to do because it's written right there and you don't have to jump back and forth to the java to figure it out. It lets you set view info directly from an Object's data, which makes it super easy to write in java. Much neater. I really like it.
+
+This library might be used in an app that, for example, has a lot of changing data like a counter that updates frequently. I get the sense that this library is really powerful, but honestly I'm not sure what kind of app this would benefit most. I'd think more about it but I really want to get working on project 4...
